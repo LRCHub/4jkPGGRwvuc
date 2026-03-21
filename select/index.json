@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "風神",
   "base_artist": "Vaundy",
-  "createdAt": "2026-03-21T07:19:11.612764Z",
+  "createdAt": "2026-03-21T07:20:42.192949Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -59,7 +59,7 @@
       "artist": "Vaundy",
       "has_synced": false,
       "path": "select/localdb_01_風神_Vaundy.txt",
-      "repo_name": "yiU0I0tvt6s"
+      "repo_name": "4jkPGGRwvuc"
     },
     {
       "id": "localdb_2",
@@ -68,7 +68,7 @@
       "artist": "Vaundy",
       "has_synced": false,
       "path": "select/localdb_02_風神_Vaundy.txt",
-      "repo_name": "4jkPGGRwvuc"
+      "repo_name": "yiU0I0tvt6s"
     }
   ]
 }
